@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+<img  src="https://github-readme-stats.vercel.app/api?username=goxiaoy&show_icons=true&icon_color=0366d6&bg_color=ffffff" alt="github stats">
+
+### ✨Full-stack developer.
+
+🎯Targeting: 
+- 🌱 go, node.js, ruby, javascript
+- 🌱 eggjs, koa, express, kratos
+- 🌱 devops, docker, k8s, gitlab-cicd
+
 <!--
 **Lucky-dj/Lucky-dj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
