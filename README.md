@@ -3,9 +3,9 @@
 ### ✨Full-stack developer.
 
 🎯Targeting: 
-- 🌱 go, node.js, ruby, javascript
-- 🌱 eggjs, koa, express, kratos
-- 🌱 devops, docker, k8s, gitlab-cicd
+- 🌱 go, node.js
+- 🌱 eggjs, koa, go-zero
+- 🌱 Know nothing
 
 <!--
 **Lucky-dj/Lucky-dj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
